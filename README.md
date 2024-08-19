@@ -1,3 +1,26 @@
+## mola_common (noetic) - 0.4.0-1
+
+The packages in the `mola_common` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -y -r noetic mola_common` on `Mon, 19 Aug 2024 22:22:42 -0000`
+
+The `mola_common` package was released.
+
+Version of package(s) in repository `mola_common`:
+
+- upstream repository: https://github.com/MOLAorg/mola_common.git
+- release repository: https://github.com/mrpt-ros-pkg-release/mola_common-release.git
+- rosdistro version: `0.3.3-1`
+- old version: `0.3.3-1`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## mola_common (noetic) - 0.3.3-1
 
 The packages in the `mola_common` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -y -r noetic mola_common` on `Tue, 13 Aug 2024 22:17:37 -0000`
